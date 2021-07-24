@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sonomarina
 - 👀 I’m interested in Data Analysis, BI, and software development
 - 🌱 I’m currently learning Python (trying with C, and F# a little bit), and I suck big time 
-- 💞️ I’m looking to collaborate on healthcare projects, financial simulations, dashboards,roughly anything at a begineer/intermediate level
+- 💞️ I’m looking to collaborate on healthcare projects, financial simulations, dashboards,roughly anything at a beginner/intermediate level
 - 📫 send me an email mnocerafl@gmail.com or hit me up on telegram/whatsapp +4571406859
 
 <!---
